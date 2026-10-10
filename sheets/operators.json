@@ -1,0 +1,6 @@
+[
+  {"id":"breacher","name":"Breacher","role":"Breach","maxHealth":20,"gadget":"breach_charge","speedBonus":0.0,"siegeAssetRef":"companion:rainbow-six-siege:operator-icon","pickColor":"red"},
+  {"id":"medic","name":"Medic","role":"Support","maxHealth":20,"gadget":"stim_pistol","speedBonus":0.0,"siegeAssetRef":"companion:rainbow-six-siege:operator-icon","pickColor":"green"},
+  {"id":"intel","name":"Intel","role":"Recon","maxHealth":16,"gadget":"recon_drone","speedBonus":0.1,"siegeAssetRef":"companion:rainbow-six-siege:operator-icon","pickColor":"aqua"},
+  {"id":"anchor","name":"Anchor","role":"Defense","maxHealth":28,"gadget":"deployable_shield","speedBonus":-0.05,"siegeAssetRef":"companion:rainbow-six-siege:operator-icon","pickColor":"gold"}
+]

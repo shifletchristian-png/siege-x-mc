@@ -1,0 +1,5 @@
+[
+  {"id":"rusher","name":"Rusher","entity":"minecraft:zombie","maxHealth":20,"room":"hall","count":4,"siegeAssetRef":"companion:rainbow-six-siege:enemy-model"},
+  {"id":"gunner","name":"Gunner","entity":"minecraft:skeleton","maxHealth":20,"room":"armory","count":3,"siegeAssetRef":"companion:rainbow-six-siege:enemy-model"},
+  {"id":"guard","name":"Guard","entity":"minecraft:pillager","maxHealth":24,"room":"vault","count":2,"siegeAssetRef":"companion:rainbow-six-siege:enemy-model"}
+]

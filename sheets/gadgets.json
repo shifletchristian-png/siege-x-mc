@@ -1,0 +1,6 @@
+[
+  {"id":"breach_charge","name":"Breach Charge","baseItem":"minecraft:tnt_minecart","cooldownTicks":400,"effect":"BREACH","radius":2,"amount":0,"durationTicks":0},
+  {"id":"stim_pistol","name":"Stim Pistol","baseItem":"minecraft:golden_carrot","cooldownTicks":300,"effect":"HEAL_ALLY","radius":6,"amount":8,"durationTicks":0},
+  {"id":"recon_drone","name":"Recon Drone","baseItem":"minecraft:spyglass","cooldownTicks":600,"effect":"PING_ENEMIES","radius":24,"amount":0,"durationTicks":200},
+  {"id":"deployable_shield","name":"Deployable Shield","baseItem":"minecraft:shield","cooldownTicks":500,"effect":"SHIELD_ALLIES","radius":5,"amount":1,"durationTicks":200}
+]

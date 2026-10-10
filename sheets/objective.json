@@ -1,0 +1,3 @@
+[
+  {"id":"rescue_hostage","winWhen":"ALL_ENEMIES_DEAD_AND_HOSTAGE_ALIVE","loseWhen":"HOSTAGE_DEAD_OR_ALL_PLAYERS_DOWN","hostageRoom":"hostage_cell","hostageHealth":20,"winTitle":"HOSTAGE SECURED","loseTitle":"MISSION FAILED"}
+]

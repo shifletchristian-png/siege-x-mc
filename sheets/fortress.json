@@ -1,0 +1,7 @@
+[
+  {"id":"entry","type":"spawn","dx":0,"dy":0,"dz":0,"size":5},
+  {"id":"hall","type":"room","dx":0,"dy":0,"dz":14,"size":9},
+  {"id":"armory","type":"room","dx":14,"dy":0,"dz":14,"size":9},
+  {"id":"vault","type":"room","dx":0,"dy":0,"dz":28,"size":9},
+  {"id":"hostage_cell","type":"hostage","dx":14,"dy":0,"dz":28,"size":5}
+]

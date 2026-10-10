@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "siege_block_squad",
+  "version": "${version}",
+  "name": "Siege Block Squad",
+  "description": "Co-op hostage rescue in Minecraft with Rainbow Six Siege style operators and gadgets.",
+  "authors": ["Siege Block Squad contributors"],
+  "license": "TBD - owner has not chosen yet",
+  "environment": "*",
+  "entrypoints": { "main": ["gg.melty.siegeblocksquad.SiegeBlockSquad"] },
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "~1.21.1", "java": ">=21", "fabric-api": "*" }
+}
