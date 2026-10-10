@@ -1,0 +1,135 @@
+[
+ {
+  "id": "front_door",
+  "type": "door",
+  "room": "dining_hall",
+  "side": "north",
+  "offset": 5
+ },
+ {
+  "id": "dining_kitchen",
+  "type": "door",
+  "room": "dining_hall",
+  "side": "east",
+  "offset": 3
+ },
+ {
+  "id": "dining_meeting",
+  "type": "door",
+  "room": "dining_hall",
+  "side": "south",
+  "offset": 6
+ },
+ {
+  "id": "meeting_rear",
+  "type": "door",
+  "room": "meeting_hall",
+  "side": "east",
+  "offset": 3
+ },
+ {
+  "id": "kitchen_rear",
+  "type": "door",
+  "room": "kitchen",
+  "side": "south",
+  "offset": 3
+ },
+ {
+  "id": "kitchen_tower",
+  "type": "door",
+  "room": "kitchen",
+  "side": "east",
+  "offset": 3
+ },
+ {
+  "id": "dorm_kids",
+  "type": "door",
+  "room": "dorm_main_hall",
+  "side": "east",
+  "offset": 3
+ },
+ {
+  "id": "dorm_generator",
+  "type": "door",
+  "room": "dorm_main_hall",
+  "side": "south",
+  "offset": 6
+ },
+ {
+  "id": "kids_armory",
+  "type": "door",
+  "room": "kids_dorm",
+  "side": "south",
+  "offset": 3
+ },
+ {
+  "id": "kids_tower",
+  "type": "door",
+  "room": "kids_dorm",
+  "side": "east",
+  "offset": 3
+ },
+ {
+  "id": "laundry_supply",
+  "type": "door",
+  "room": "laundry",
+  "side": "east",
+  "offset": 3
+ },
+ {
+  "id": "laundry_corridor",
+  "type": "door",
+  "room": "laundry",
+  "side": "south",
+  "offset": 3
+ },
+ {
+  "id": "supply_corridor",
+  "type": "door",
+  "room": "supply",
+  "side": "south",
+  "offset": 3
+ },
+ {
+  "id": "supply_tower",
+  "type": "door",
+  "room": "supply",
+  "side": "east",
+  "offset": 3
+ },
+ {
+  "id": "main_stairs_down",
+  "type": "stairs",
+  "room": "laundry",
+  "side": "up",
+  "offset": 1
+ },
+ {
+  "id": "main_stairs_up",
+  "type": "stairs",
+  "room": "meeting_hall",
+  "side": "up",
+  "offset": 1
+ },
+ {
+  "id": "tower_up_0",
+  "type": "stairs",
+  "room": "tower_b",
+  "side": "up",
+  "offset": 1
+ },
+ {
+  "id": "tower_up_1",
+  "type": "stairs",
+  "room": "tower_1",
+  "side": "up",
+  "offset": 3
+ },
+ {
+  "id": "tower_up_2",
+  "type": "stairs",
+  "room": "tower_2",
+  "side": "up",
+  "offset": 1
+ }
+]
