@@ -1,0 +1,178 @@
+[
+ {
+  "id": "yard",
+  "type": "yard",
+  "dx": 0,
+  "dy": 0,
+  "dz": -7,
+  "w": 12,
+  "d": 6,
+  "wall": "minecraft:coarse_dirt",
+  "floor": "minecraft:coarse_dirt"
+ },
+ {
+  "id": "laundry",
+  "type": "room",
+  "dx": 0,
+  "dy": -5,
+  "dz": 0,
+  "w": 12,
+  "d": 8,
+  "wall": "minecraft:stone_bricks",
+  "floor": "minecraft:stone_bricks"
+ },
+ {
+  "id": "supply",
+  "type": "room",
+  "dx": 13,
+  "dy": -5,
+  "dz": 0,
+  "w": 8,
+  "d": 8,
+  "wall": "minecraft:stone_bricks",
+  "floor": "minecraft:stone_bricks"
+ },
+ {
+  "id": "basement_corridor",
+  "type": "room",
+  "dx": 0,
+  "dy": -5,
+  "dz": 9,
+  "w": 21,
+  "d": 4,
+  "wall": "minecraft:stone_bricks",
+  "floor": "minecraft:stone_bricks"
+ },
+ {
+  "id": "tower_b",
+  "type": "room",
+  "dx": 22,
+  "dy": -5,
+  "dz": 0,
+  "w": 5,
+  "d": 7,
+  "wall": "minecraft:stone_bricks",
+  "floor": "minecraft:stone_bricks"
+ },
+ {
+  "id": "dining_hall",
+  "type": "room",
+  "dx": 0,
+  "dy": 0,
+  "dz": 0,
+  "w": 12,
+  "d": 8,
+  "wall": "minecraft:spruce_planks",
+  "floor": "minecraft:oak_planks"
+ },
+ {
+  "id": "kitchen",
+  "type": "room",
+  "dx": 13,
+  "dy": 0,
+  "dz": 0,
+  "w": 8,
+  "d": 8,
+  "wall": "minecraft:spruce_planks",
+  "floor": "minecraft:oak_planks"
+ },
+ {
+  "id": "meeting_hall",
+  "type": "room",
+  "dx": 0,
+  "dy": 0,
+  "dz": 9,
+  "w": 12,
+  "d": 8,
+  "wall": "minecraft:spruce_planks",
+  "floor": "minecraft:oak_planks"
+ },
+ {
+  "id": "rear_stage",
+  "type": "room",
+  "dx": 13,
+  "dy": 0,
+  "dz": 9,
+  "w": 8,
+  "d": 8,
+  "wall": "minecraft:spruce_planks",
+  "floor": "minecraft:oak_planks"
+ },
+ {
+  "id": "tower_1",
+  "type": "room",
+  "dx": 22,
+  "dy": 0,
+  "dz": 0,
+  "w": 5,
+  "d": 7,
+  "wall": "minecraft:spruce_planks",
+  "floor": "minecraft:oak_planks"
+ },
+ {
+  "id": "dorm_main_hall",
+  "type": "room",
+  "dx": 0,
+  "dy": 5,
+  "dz": 0,
+  "w": 12,
+  "d": 8,
+  "wall": "minecraft:spruce_planks",
+  "floor": "minecraft:oak_planks"
+ },
+ {
+  "id": "kids_dorm",
+  "type": "room",
+  "dx": 13,
+  "dy": 5,
+  "dz": 0,
+  "w": 8,
+  "d": 8,
+  "wall": "minecraft:spruce_planks",
+  "floor": "minecraft:oak_planks"
+ },
+ {
+  "id": "generator",
+  "type": "room",
+  "dx": 0,
+  "dy": 5,
+  "dz": 9,
+  "w": 12,
+  "d": 8,
+  "wall": "minecraft:spruce_planks",
+  "floor": "minecraft:oak_planks"
+ },
+ {
+  "id": "armory_hall",
+  "type": "room",
+  "dx": 13,
+  "dy": 5,
+  "dz": 9,
+  "w": 8,
+  "d": 8,
+  "wall": "minecraft:spruce_planks",
+  "floor": "minecraft:oak_planks"
+ },
+ {
+  "id": "tower_2",
+  "type": "room",
+  "dx": 22,
+  "dy": 5,
+  "dz": 0,
+  "w": 5,
+  "d": 7,
+  "wall": "minecraft:spruce_planks",
+  "floor": "minecraft:oak_planks"
+ },
+ {
+  "id": "tower_3",
+  "type": "room",
+  "dx": 22,
+  "dy": 10,
+  "dz": 0,
+  "w": 5,
+  "d": 7,
+  "wall": "minecraft:spruce_planks",
+  "floor": "minecraft:oak_planks"
+ }
+]

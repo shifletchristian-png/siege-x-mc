@@ -1,0 +1,47 @@
+[
+ {
+  "id": "rusher_meeting",
+  "name": "Rusher",
+  "entity": "minecraft:zombie",
+  "maxHealth": 20,
+  "room": "meeting_hall",
+  "count": 3,
+  "siegeAssetRef": "companion:rainbow-six-siege:enemy-model"
+ },
+ {
+  "id": "rusher_laundry",
+  "name": "Rusher",
+  "entity": "minecraft:zombie",
+  "maxHealth": 20,
+  "room": "laundry",
+  "count": 2,
+  "siegeAssetRef": "companion:rainbow-six-siege:enemy-model"
+ },
+ {
+  "id": "gunner_kitchen",
+  "name": "Gunner",
+  "entity": "minecraft:skeleton",
+  "maxHealth": 20,
+  "room": "kitchen",
+  "count": 2,
+  "siegeAssetRef": "companion:rainbow-six-siege:enemy-model"
+ },
+ {
+  "id": "gunner_tower",
+  "name": "Gunner",
+  "entity": "minecraft:skeleton",
+  "maxHealth": 20,
+  "room": "tower_2",
+  "count": 1,
+  "siegeAssetRef": "companion:rainbow-six-siege:enemy-model"
+ },
+ {
+  "id": "guard_generator",
+  "name": "Guard",
+  "entity": "minecraft:pillager",
+  "maxHealth": 24,
+  "room": "generator",
+  "count": 2,
+  "siegeAssetRef": "companion:rainbow-six-siege:enemy-model"
+ }
+]
